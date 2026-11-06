@@ -5,7 +5,7 @@ instruments to structured credit:
 
 **bonds → CDS → credit-linked notes → repacks → CDO tranches**
 
-The core models are written from scratch, no QuantLib dependency, with exact
+The core models are written from scratch, no QuantLib dependency at this stage, with exact
 piecewise integration and a test suite that checks results against closed-form
 results and analytic identities.
 
